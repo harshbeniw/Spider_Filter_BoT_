@@ -5,7 +5,7 @@ class script(object):
 
 ʏᴏᴜʀ ɪᴅ - <code>{}</code></b>"""
     
-    GSTART_TXT = """ʜᴇʏ {},\n\nɪ ᴀᴍ ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇꜱ.\n\nᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/hbbotz">Hʙ Bᴏᴛᴢ</a>"""
+    GSTART_TXT = """ʜᴇʏ {},\n\nɪ ᴀᴍ ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇꜱ.\n\nᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/Ak_Movie_Worlds">Hʙ Bᴏᴛᴢ</a>"""
 
     USERS_TXT = """👋 ʜᴇʏ {},
     
@@ -77,13 +77,13 @@ class script(object):
     CREDITS_TXT = """<b>
 ❤️‍🩹 <u>ꜱᴘᴇᴄɪᴀʟ ᴛʜᴀɴᴋꜱ ᴛᴏ ᴇᴠᴇʀʏᴏɴᴇ</u>
 
-• ᴍᴀɪɴ ᴏᴡɴᴇʀ : <a href=https://t.me/Hariomsingh31u>Hᴀʀɪᴏᴍ 🧊</a>
-• ʙᴀꜱᴇ ʀᴇᴘᴏ : <a href=https://t.me/Hariomsingh31u>Hᴀʀɪᴏᴍ 🍨</a>
-• sᴛʀᴇᴀᴍ ғᴇᴀᴛᴜʀᴇ : <a href="https://t.me/Hariomsingh31u">!Nothing Here!</a>
+• ᴍᴀɪɴ ᴏᴡɴᴇʀ : <a href=https://t.me/A_K_movie_bot>Hᴀʀɪᴏᴍ 🧊</a>
+• ʙᴀꜱᴇ ʀᴇᴘᴏ : <a href=https://t.me/A_K_movie_bot>Hᴀʀɪᴏᴍ 🍨</a>
+• sᴛʀᴇᴀᴍ ғᴇᴀᴛᴜʀᴇ : <a href="https://t.me/A_K_movie_bot">!Nothing Here!</a>
 • sᴛʀᴇᴀᴍ ᴡᴇʙꜱɪᴛᴇ : <a href="https://telegram.me/Anayafilebot?start=start-6544090369">📍.... 🥤</a>
 • ᴘʀᴇᴍɪᴜᴍ ᴄᴏᴅᴇꜱ : <a href="https://t.me/nibrasbadusha">Didn't Tell 🧋</a>
-• ᴡᴇʟᴄᴏᴍᴇ ᴀɴɪᴍᴀᴛɪᴏɴ : <a href=https://t.me/Hariomsingh31u>Hᴀʀɪᴏᴍ 🍄</a>
-• ꜱᴛʀᴇᴀᴍ ꜱʜᴏʀᴛʟɪɴᴋ : <a href=https://t.me/Hariomsingh31u>Hᴀʀɪᴏᴍ 🍥</a>
+• ᴡᴇʟᴄᴏᴍᴇ ᴀɴɪᴍᴀᴛɪᴏɴ : <a href=https://t.me/A_K_movie_bot>Hᴀʀɪᴏᴍ 🍄</a>
+• ꜱᴛʀᴇᴀᴍ ꜱʜᴏʀᴛʟɪɴᴋ : <a href=https://t.me/A_K_movie_bot>Hᴀʀɪᴏᴍ 🍥</a>
 
 ɪ ᴀᴍ ꜱᴏʀʀʏ ɪꜰ ɪ ꜰᴏʀɢᴏᴛ ꜱᴏᴍᴇᴏɴᴇ 🫂
 ᴛʜᴀɴᴋ ʏᴏᴜ ꜰᴏʀ ʜᴇʟᴘɪɴɢ ɪɴ ᴛʜɪꜱ ᴀᴍᴀᴢɪɴɢ ʀᴏʟʟᴇʀ ᴄᴏᴀꜱᴛᴇʀ ᴊᴏᴜʀɴᴇʏ 🚀</b>
@@ -91,7 +91,7 @@ class script(object):
     DEVELOPER_TXT = """
 special Thanks To ❤️ Developer -
 
--Dev [Owner of this bot ]<a href=https://t.me/Hariomsingh31u>Hᴀʀɪᴏᴍ</a>
+-Dev [Owner of this bot ]<a href=https://t.me/A_K_movie_bot>Hᴀʀɪᴏᴍ</a>
 """
     
     CHANNELS = """
@@ -107,7 +107,7 @@ special Thanks To ❤️ Developer -
 ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪғɪᴄ ᴍᴏᴅᴜʟᴇꜱ.</b>"""
 
     ABOUT_TXT = """<b>🤖 Mʏ Nᴀᴍᴇ : {}</b>
-<b>👦🏼 Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/Hariomsingh31u>Hᴀʀɪᴏᴍ</a></b>
+<b>👦🏼 Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/A_K_movie_bot>Hᴀʀɪᴏᴍ</a></b>
 📚 Lɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
 🌐 DᴀᴛᴀBᴀsᴇ : <a href='https://www.mongodb.com/'>MᴏɴɢᴏDB</a>
 📡 Bᴏᴛ Sᴇʀᴠᴇʀ : <a href='https://t.me/jerrybot.vercel.app'>ǫᴜɪᴄᴋ ꜰᴀsᴛ​</a>
@@ -142,7 +142,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/hbbotz)</code>
+<code>[Button Text](buttonurl:https://t.me/Ak_Movie_Worlds)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -276,7 +276,7 @@ Any Doubts or Not Connecting? Contact Me </b>
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
 • ꜰᴜʟʟ ɴᴀᴍᴇ : ʜᴀʀɪᴏᴍ ꜱɪɴɢʜ
-• ᴜꜱᴇʀɴᴀᴍᴇ :@Hariomsingh31u
+• ᴜꜱᴇʀɴᴀᴍᴇ  @A_K_movie_bot
 • ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/owernarutobot'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
     MONEY4 = """
 Already Claimed Premium 🧊"""
@@ -414,7 +414,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
     
 🥉 <u>ʙʀᴏɴᴄᴇ ᴘʟᴀɴ</u>
 ⏰ 30 ᴅᴀʏꜱ
-💸 ᴘʟᴀɴ ᴘʀɪᴄᴇ ➛ ₹29
+💸 ᴘʟᴀɴ ᴘʀɪᴄᴇ ➛ ₹5
 
 ➛ ᴜꜱᴇ /plan ᴛᴏ ꜱᴇᴇ ᴀʟʟ ᴏᴜʀ ᴘʟᴀɴꜱ ᴀᴛ ᴏɴᴄᴇ.
 ➛ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan</b>"""
@@ -422,8 +422,8 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
     SILVER_TXT = """<b>👋 ʜᴇʏ {},
     
 🥈 <u>ꜱɪʟᴠᴇʀ ᴘʟᴀɴ</u>
-⏰ 365 ᴅᴀʏꜱ 
-💸 ᴘʟᴀɴ ᴘʀɪᴄᴇ ➛ ₹249
+⏰ 181 ᴅᴀʏꜱ 
+💸 ᴘʟᴀɴ ᴘʀɪᴄᴇ ➛ ₹49
 
 ➛ ᴜꜱᴇ /plan ᴛᴏ ꜱᴇᴇ ᴀʟʟ ᴏᴜʀ ᴘʟᴀɴꜱ ᴀᴛ ᴏɴᴄᴇ.
 ➛ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan</b>"""
@@ -454,7 +454,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
     
 ⚜️ ᴘᴀʏ ᴀᴍᴍᴏᴜɴᴛ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ʏᴏᴜʀ ᴘʟᴀɴ ᴀɴᴅ ᴇɴᴊᴏʏ ᴘʀᴇᴍɪᴜᴍ ᴍᴇᴍʙᴇʀꜱʜɪᴘ !
 
-💵 ᴜᴘɪ ɪᴅ - <code>hariomsing97@ybl</code>
+💵 ᴜᴘɪ ɪᴅ - <code>7847975463@fam</code>
 
 ‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.</b>"""
 
@@ -462,7 +462,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
     
 ⚜️ ᴘᴀʏ ᴀᴍᴍᴏᴜɴᴛ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ʏᴏᴜʀ ᴘʟᴀɴ ᴀɴᴅ ᴇɴᴊᴏʏ ᴘʀᴇᴍɪᴜᴍ ᴍᴇᴍʙᴇʀꜱʜɪᴘ !
 
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://telegra.ph/file/5309e51e633e8f4beac0c.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://telegra.ph/file/9f62fb4b7dcf5ba621519.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.</b>"""
 
@@ -470,11 +470,11 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
     
 🎖️ <u>ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟᴀɴs</u> :
 
-● <code>₹29</code> ➛ <u>ʙʀᴏɴᴢᴇ ᴘʟᴀɴ</u> » <code>30 ᴅᴀʏꜱ</code>
-● <code>₹249</code> ➛ <u>ꜱɪʟᴠᴇʀ ᴘʟᴀɴ</u> » <code>365 ᴅᴀʏꜱ</code>
+● <code>₹5</code> ➛ <u>ʙʀᴏɴᴢᴇ ᴘʟᴀɴ</u> » <code>30 ᴅᴀʏꜱ</code>
+● <code>₹49</code> ➛ <u>ꜱɪʟᴠᴇʀ ᴘʟᴀɴ</u> » <code>181 ᴅᴀʏꜱ</code>
 
-💵 ᴜᴘɪ ɪᴅ - <code>hariomsing97@ybl</code>
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://telegra.ph/file/5309e51e633e8f4beac0c.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+💵 ᴜᴘɪ ɪᴅ - <code>7847975463@fam</code>
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://telegra.ph/file/9f62fb4b7dcf5ba621519.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ⚜️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan
 
