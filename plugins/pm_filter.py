@@ -978,7 +978,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                         reply_markup=InlineKeyboardMarkup(
                             [
                              [
-                              InlineKeyboardButton('🍁 Uᴘᴅᴀᴛᴇ', url=f'https://t.me/hbbotz')
+                              InlineKeyboardButton('🍁 Uᴘᴅᴀᴛᴇ Channel', url=f'https://t.me/bots_update_channel')
                              ]
                             ]
                         )
@@ -1065,7 +1065,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
-                  InlineKeyboardButton('🍁 Uᴘᴅᴀᴛᴇ', url=f'https://t.me/hbbotz')
+                  InlineKeyboardButton('🍁 Uᴘᴅᴀᴛᴇ Channel', url=f'https://t.me/bots_update_channel')
                  ]
                 ]
             )
@@ -1435,7 +1435,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     InlineKeyboardButton('⚙️ ꜰᴇᴀᴛᴜʀᴇꜱ', callback_data="help"),
                     InlineKeyboardButton('🪙 ғʀᴇᴇ ᴘʀᴇᴍɪᴜᴍ', callback_data='money_bot')
                 ],[
-                    InlineKeyboardButton("Movie Request", url="https://t.me/Anime_All_Hindi_In_Crunchyroll")
+                    InlineKeyboardButton("🇮🇳 Movie Request Group 🇮🇳", url="https://t.me/Anime_All_Hindi_In_Crunchyroll")
                  ],[
                     InlineKeyboardButton('💰 💰 How To Use This Bot 💸', url='https://t.me/moviessssssssssssssaassss')
                   ]]
