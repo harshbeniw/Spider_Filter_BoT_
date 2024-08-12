@@ -478,7 +478,7 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                      [
-                      InlineKeyboardButton('🍁 Uᴘᴅᴀᴛᴇ', url=f'https://t.me/hbbotz')
+                      InlineKeyboardButton('🍁 Uᴘᴅᴀᴛᴇ Channel', url=f'https://t.me/bots_update_channel')
                      ]
                     ]
                 )
