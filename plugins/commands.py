@@ -111,7 +111,7 @@ async def start(client, message):
                 ],[
                     InlineKeyboardButton("Movie Request", url="https://t.me/Anime_All_Hindi_In_Crunchyroll")
                  ],[
-                    InlineKeyboardButton('💰 How To Use This Bot 💸', url='https://t.me/moviessssssssssssssaassss'))
+                    InlineKeyboardButton('💰 How To Use This Bot 💸', url='https://t.me/moviessssssssssssssaassss')
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         m=await message.reply_text("<i>𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝑻𝒐 <b>ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ <b>ᴛʜᴇ ᴀɴᴀʏᴀ ʙᴏᴛ</b>.\nʜᴏᴘᴇ ʏᴏᴜ'ʀᴇ ᴅᴏɪɴɢ ᴡᴇʟʟ...</i>")
