@@ -1482,7 +1482,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
            InlineKeyboardButton('📲 ʀᴇғᴇʀ ɢᴇᴛ ᴘʀᴇᴍɪᴜᴍ', callback_data='free')
         ],[   
             InlineKeyboardButton('🪙 1 ᴍᴏɴᴛʜꜱ', callback_data='broze'),
-            InlineKeyboardButton('💎 1 ʏᴇᴀʀ ', callback_data='silver')
+            InlineKeyboardButton('💎 6 ᴍᴏɴᴛʜꜱ ', callback_data='silver')
         ],[
             InlineKeyboardButton('⇍ ʙᴀᴄᴋ', callback_data='start'),
         ]]
@@ -1707,7 +1707,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await client.edit_message_media(
             query.message.chat.id, 
             query.message.id,
-            InputMediaPhoto("https://telegra.ph/file/5309e51e633e8f4beac0c.jpg")
+            InputMediaPhoto("https://telegra.ph/file/9f62fb4b7dcf5ba621519.jpg")
         )
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
