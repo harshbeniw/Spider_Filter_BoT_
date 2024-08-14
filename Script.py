@@ -315,7 +315,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
-    📂<b><blockquote><b><a href="https://t.me/Ak_Movie_Worlds">{file_name}</a></b></blockquote>"""
+    <b><blockquote><b><a href="https://t.me/Ak_Movie_Worlds">{file_name}</a></b></blockquote>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
