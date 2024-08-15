@@ -46,7 +46,7 @@ BUTTONS2 = {}
 SPELL_CHECK = {}
 # ENABLE_SHORTLINK = ""
 
-@Client.on_message(filters.group & filters.text & filters.incoming)
+@Client.on_message(filters.private & filters.text & filters.incoming)
 async def give_filter(client, message):
     await message.react(emoji=random.choice(REACTIONS))
     if message.chat.id != SUPPORT_CHAT_ID:
@@ -58,7 +58,7 @@ async def give_filter(client, message):
                     await auto_filter(client, message)
             except KeyError:
                 grpid = await active_connection(str(message.from_user.id))
-                await save_group_settings(grpid, 'auto_ffilter', False)
+                await save_group_settings(grpid, 'auto_ffilter', True)
                 settings = await get_settings(message.chat.id)
                 if settings['auto_ffilter']:
                     await auto_filter(client, message) 
